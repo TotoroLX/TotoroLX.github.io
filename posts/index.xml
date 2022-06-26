@@ -15,7 +15,9 @@
       <description>In public folder, all contents are added to github.io
 In cmd, input &amp;lsquo;hugo&amp;rsquo; to generate the static webpages.
 then
-git add . git commit -m &amp;quot;&amp;quot; git push origin master</description>
+git add .
+git commit -m &amp;quot;&amp;quot;
+git push origin master</description>
     </item>
     
   </channel>
