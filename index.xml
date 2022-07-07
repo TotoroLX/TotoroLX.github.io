@@ -12,13 +12,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://TotoroLX.github.io/posts/first/</guid>
-      <description>In public folder, all contents are added to github.io
-In cmd, input &amp;lsquo;hugo&amp;rsquo; to generate the static webpages.
-then
+      <description>change the folder to the blog folder
+In cmd (MyBlog folder), input &amp;lsquo;hugo&amp;rsquo; to generate the static webpages.
+then in the public folder, all contents should be added to github.io
 git add .
 git commit -m &amp;quot;&amp;quot;
 git push origin master
-references:https://w01fb0ss.github.io/2020/010/;
+references: https://w01fb0ss.github.io/2020/010/;
 https://keysaim.github.io/post/blog/2017-08-15-how-to-setup-your-github-io-blog/
 https://keysaim.github.io/post/blog/deploy-hugo-blog-in-github.io/</description>
     </item>
