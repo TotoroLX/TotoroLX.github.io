@@ -39,5 +39,20 @@ Receive the card;
 http://apply.csc.edu.cn/csc/main/person/login/abroadindex.jsf https://sa.csc.edu.cn/student/ https://s.csc.edu.cn/ </description>
     </item>
     
+    <item>
+      <title>CSC申请相关</title>
+      <link>https://TotoroLX.github.io/posts/thesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://TotoroLX.github.io/posts/thesis/</guid>
+      <description>CSC-relevant Memo After successful application
+Enrollment in the embassy by email;
+Enrollment online (after 01.10.2022)
+Finish card application;
+Receive the card;
+相关网站
+http://apply.csc.edu.cn/csc/main/person/login/abroadindex.jsf https://sa.csc.edu.cn/student/ https://s.csc.edu.cn/ </description>
+    </item>
+    
   </channel>
 </rss>
