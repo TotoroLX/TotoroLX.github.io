@@ -4,7 +4,23 @@
     <title>Posts on TotoroLiuX</title>
     <link>https://TotoroLX.github.io/posts/</link>
     <description>Recent content in Posts on TotoroLiuX</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://TotoroLX.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 08 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://TotoroLX.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Master&#39;s thesis</title>
+      <link>https://TotoroLX.github.io/posts/thesis/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://TotoroLX.github.io/posts/thesis/</guid>
+      <description>CSC-relevant Memo After successful application
+Enrollment in the embassy by email;
+Enrollment online (after 01.10.2022)
+Finish card application;
+Receive the card;
+相关网站
+http://apply.csc.edu.cn/csc/main/person/login/abroadindex.jsf https://sa.csc.edu.cn/student/ https://s.csc.edu.cn/ </description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://TotoroLX.github.io/posts/first/</link>
@@ -30,21 +46,6 @@ https://keysaim.github.io/post/blog/deploy-hugo-blog-in-github.io/</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://TotoroLX.github.io/posts/csc/</guid>
-      <description>CSC-relevant Memo After successful application
-Enrollment in the embassy by email;
-Enrollment online (after 01.10.2022)
-Finish card application;
-Receive the card;
-相关网站
-http://apply.csc.edu.cn/csc/main/person/login/abroadindex.jsf https://sa.csc.edu.cn/student/ https://s.csc.edu.cn/ </description>
-    </item>
-    
-    <item>
-      <title>Master&#39;s thesis</title>
-      <link>https://TotoroLX.github.io/posts/thesis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://TotoroLX.github.io/posts/thesis/</guid>
       <description>CSC-relevant Memo After successful application
 Enrollment in the embassy by email;
 Enrollment online (after 01.10.2022)

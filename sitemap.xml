@@ -2,18 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://TotoroLX.github.io/posts/thesis/</loc>
+    <lastmod>2022-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://TotoroLX.github.io/posts/</loc>
+    <lastmod>2022-07-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://TotoroLX.github.io/</loc>
+    <lastmod>2022-07-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://TotoroLX.github.io/posts/first/</loc>
   </url><url>
     <loc>https://TotoroLX.github.io/categories/</loc>
   </url><url>
     <loc>https://TotoroLX.github.io/posts/csc/</loc>
   </url><url>
-    <loc>https://TotoroLX.github.io/posts/thesis/</loc>
-  </url><url>
-    <loc>https://TotoroLX.github.io/posts/</loc>
-  </url><url>
     <loc>https://TotoroLX.github.io/tags/</loc>
-  </url><url>
-    <loc>https://TotoroLX.github.io/</loc>
   </url>
 </urlset>
