@@ -65,9 +65,9 @@ $$
 and results in
 $$
 H_{\alpha} := H \circ \phi_{\alpha} \
-= H_0(I_{\alpha}) + \mu g_{\alpha}(I_{\alpha}, p_{\alpha}, q_{\alpha}) + mu f_{\alpha}(I_{\alpha}, \varphi_{\alpha}, p_{\alpha}, q_{\alpha})
+= H_0(I_{\alpha}) + \mu g_{\alpha}(I_{\alpha}, p_{\alpha}, q_{\alpha}) + \mu f_{\alpha}(I_{\alpha}, \varphi_{\alpha}, p_{\alpha}, q_{\alpha})
 $$</p>
-<p>The average theory tells us that the transformation $\phi_{\alpha}$ is close to identity, $g_{\alpha}$ is close to (f_{av}), and $f_{\alpha}$ is of order $O(\epsilon^{2s+1})$.</p>
+<p>The average theory tells us that the transformation $\phi_{\alpha}$ is close to identity, $g_{\alpha}$ is close to \(f_{av}\), and $f_{\alpha}$ is of order $O(\epsilon^{2s+1})$.</p>
 <p>Since $g_{\alpha}$ is close to $f_{av}$, and $f_{av}$ is in Birkhoff normal form, we could find a new transformation
 $$
 \phi_{\beta}: (I_{\beta}, \varphi_{\beta}, p_{\beta}, q_{\beta}) \rightarrow (I_{\alpha}, \varphi_{\alpha}, p_{\alpha}, q_{\alpha})
@@ -77,6 +77,19 @@ $$
 H_{\beta} := H_{\alpha} \circ \phi_{\beta} \
 = H_0(<em>{\beta}) + \mu g</em>{\beta}(I_{\beta}, p_{\beta}, q_{\beta}) + \mu \epsilon^{2s+1}f_{\beta}(I_{\beta}, \varphi_{\beta}, p_{\beta}, q_{\beta})
 $$</p>
+<p>The next step includes a new transformation (following the original paper)
+$$
+\phi_{\gamma}: (I_{\gamma}, \varphi_{\gamma}, p_{\gamma}, q_{\gamma}) \rightarrow (I_{\beta}, \varphi_{\beta}, p_{\beta}, q_{\beta})
+$$
+and
+$$
+H_{\gamma} := H_{\beta} \circ \phi_{\gamma} = H_0(I_{\gamma}) + \mu g_{\gamma}(I_{\gamma}, p_{\gamma}, q_{\gamma}) + \mu \epsilon^{2s+1}f_{\gamma}(I_{\gamma}, \varphi_{\gamma}, p_{\gamma}, q_{\gamma})
+$$
+where
+$$
+g_{\gamma}(I_{\gamma}, p_{\gamma}, q_{\gamma}) := g_{\beta} \circ \phi_{\gamma}(I_{\gamma}, p_{\gamma}, q_{\gamma}) = \hat{f}<em>0(I</em>{\gamma}) + \hat{\Omega}(I_{\gamma}) \cdot \frac{p_{\gamma}^2 + q_{\gamma}^2}{2} + \hat{R}
+$$
+which is in Birkhoff normal form of order $4$.</p>
 
 		</section>
 
